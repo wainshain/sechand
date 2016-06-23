@@ -1,0 +1,6 @@
+framework module Pods_Sechand_project {
+  umbrella header "Pods-Sechand project-umbrella.h"
+
+  export *
+  module * { export * }
+}
